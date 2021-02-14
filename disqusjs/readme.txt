@@ -8,6 +8,8 @@ License: GPLv2 or higher
 
 A lightweight solution for adding Disqus to your WordPress blog.
 
+Credit to Disqus.js from Sukka and pipDisqus from pipdig.
+
 == Description ==
 
 This plugin will remove any of the default WordPress comments features from your site, and replace this with Disqus.
@@ -24,7 +26,7 @@ Reasons to use this plugin:
 == Installation ==
 
 1. Install the plugin.
-2. Add your Disqus Shortname to `Settings > WPDisqusJs`.
+2. Add your Disqus Shortname to `Settings > disqusjs`.
 
 == Screenshots ==
 1. Admin Bar Shortcut
